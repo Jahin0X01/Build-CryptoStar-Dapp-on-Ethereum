@@ -2,6 +2,7 @@
 Udacity DAPP Project 5 (BlockChain nanodgree)
 
 the Token Name is : Jahin Coin
+
 the Symbole is : JC
 
 ### Instructions
@@ -13,6 +14,7 @@ $ truffle develop
 ```
 now we have the server in the local host : http://127.0.0.1:9545/ 
 we will make a privet network using metamask then add new account (we have privet keys in the termninal) like the follwing table
+
 ``I add the (0) and (1) accounts``
 ```
 Truffle Develop started at http://127.0.0.1:9545/
